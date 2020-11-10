@@ -1,2 +1,2 @@
 # overSky
-test download ipa
+test install ipa to iphone
